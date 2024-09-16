@@ -21,7 +21,7 @@ Este projeto é uma **landing page** criada para a **Escola DNC** como parte de 
 
 ## Como Visualizar o Projeto
 
-Você pode visualizar o projeto acessando este [link]([https://url-do-projeto-no-wix](https://enzovalencuela-landing-page-dnc.netlify.app)) diretamente ou baixando os arquivos deste repositório e abrindo o arquivo `index.html` no navegador.
+Você pode visualizar o projeto acessando este [link](https://enzovalencuela-landing-page-dnc.netlify.app) diretamente ou baixando os arquivos deste repositório e abrindo o arquivo `index.html` no navegador.
 
 ### Clonar o Repositório
 
