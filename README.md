@@ -1,7 +1,5 @@
 # Landing Page - Escola DNC
 
-![Landing Page Preview](url-da-imagem-ou-gif-da-landing-page)  
-*Adicione uma imagem de pré-visualização da landing page para dar uma visão geral do projeto.*
 
 ## Descrição
 
@@ -30,15 +28,6 @@ git clone https://github.com/seu-usuario/nome-do-repositorio.git
 cd nome-do-repositorio
 ```
 
-## Screenshots
-
-Adicione screenshots aqui para mostrar detalhes importantes da landing page:
-
-![Screenshot 1](url-da-screenshot)  
-*Legenda da imagem*
-
-![Screenshot 2](url-da-screenshot)  
-*Legenda da imagem*
 
 ## Aprendizados
 
